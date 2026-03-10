@@ -1,0 +1,10 @@
+normalize by population density
+
+api gemini call to check if it's open on demand..?
+
+make sure you can see food distributors with and without the neighborhoods
+
+Service area analysis (5/10/15 min walk/transit/drive) Better than radius alone; helps policy and organizing.
+Add a button to 'search this neighborhood' which reveals all within a specific neighborhood. 
+
+experiment with a pop up card of information when you  

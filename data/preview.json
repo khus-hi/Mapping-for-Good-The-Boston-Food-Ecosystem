@@ -1,0 +1,60 @@
+{
+  "dedupe_key": "massgrown:3351bdd797fd0c1d835be48d61f80799f0491a1eb88d26fac9e8db25bfc57f48",
+  "address": {
+    "line1": "64 Kenton Rd.",
+    "city_raw": "JAMAICA PLAIN",
+    "city_norm": "Jamaica Plain",
+    "state": "MA",
+    "zip": "02130",
+    "formatted_address": "64 Kenton Rd, Jamaica Plain, MA 02130, USA"
+  },
+  "contact": {
+    "website": "https://www.brookfieldfarm.org",
+    "phone": null
+  },
+  "created_at": {
+    "$date": "2026-02-22T01:11:39.260Z"
+  },
+  "description": "Pick-up Thursdays, starting in June. See website for details.",
+  "geocoding": {
+    "provider": "google",
+    "status": "OK",
+    "place_id": "ChIJjx3kzmZ544kRgkIbSvUK58o",
+    "location_type": "ROOFTOP",
+    "partial_match": null,
+    "confidence": "high"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -71.1037956,
+      42.3062456
+    ]
+  },
+  "name": "Brookfield Farm - CSA Pickup",
+  "neighborhood_id": null,
+  "neighborhood_name": null,
+  "place_type": "farmers_market",
+  "sources": [
+    {
+      "source_name": "MassGrown",
+      "source_file": "farmers_market.csv",
+      "source_row_hash": "3351bdd797fd0c1d835be48d61f80799f0491a1eb88d26fac9e8db25bfc57f48",
+      "needs_geocoding": false,
+      "raw": {
+        "LocationName": "Brookfield Farm - CSA Pickup",
+        "Address": "64 Kenton Rd. ",
+        "City": "JAMAICA PLAIN",
+        "State": "MA",
+        "Zip": "02130",
+        "Description": "Pick-up Thursdays, starting in June. See website for details. ",
+        "Website": "www.brookfieldfarm.org",
+        "Phone": ""
+      }
+    }
+  ],
+  "subtype": "csa_pickup",
+  "updated_at": {
+    "$date": "2026-02-22T01:11:39.260Z"
+  }
+}

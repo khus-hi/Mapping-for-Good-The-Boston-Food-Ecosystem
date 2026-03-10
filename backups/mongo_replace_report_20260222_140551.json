@@ -1,0 +1,22 @@
+{
+  "timestamp_utc": "2026-02-22T14:06:17.797358+00:00",
+  "backup_db": "fd_backup_20260222_140551",
+  "source_main_before_counts": {
+    "income_inequality": 307,
+    "food-distributors": 4129,
+    "geocode_cache": 1020,
+    "neighborhoods": 25
+  },
+  "test_source_counts": {
+    "neighborhoods": 25,
+    "census_geo_profiles": 916,
+    "food-distributors": 0
+  },
+  "main_after_counts": {
+    "food-distributors": 0,
+    "census_geo_profiles": 916,
+    "neighborhoods": 25
+  },
+  "backup_verified": true,
+  "replace_verified": true
+}
